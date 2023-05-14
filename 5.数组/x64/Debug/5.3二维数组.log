@@ -1,7 +1,8 @@
 ﻿  5.3二维数组.cpp
-E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.3二维数组.cpp(23,47): warning C4311: “类型强制转换”: 从“int (*)[4]”到“int”的指针截断
-E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.3二维数组.cpp(23,47): warning C4302: “类型强制转换”: 从“int (*)[4]”到“int”截断
-E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.3二维数组.cpp(24,54): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.3二维数组.cpp(24,54): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.3二维数组.cpp(6,6): warning C4101: “arr1”: 未引用的局部变量
+E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.数组\5.3二维数组.cpp(23,47): warning C4311: “类型强制转换”: 从“int (*)[4]”到“int”的指针截断
+E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.数组\5.3二维数组.cpp(23,47): warning C4302: “类型强制转换”: 从“int (*)[4]”到“int”截断
+E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.数组\5.3二维数组.cpp(24,54): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.数组\5.3二维数组.cpp(24,54): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\5.数组\5.3二维数组.cpp(6,6): warning C4101: “arr1”: 未引用的局部变量
+  LINK : 没有找到 E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\x64\Debug\5.3二维数组.exe 或上一个增量链接没有生成它；正在执行完全链接
   5.3二维数组.vcxproj -> E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\x64\Debug\5.3二维数组.exe

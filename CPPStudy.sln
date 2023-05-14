@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.3二维数组", "5.数组
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.函数", "6.函数\6.函数.vcxproj", "{F1DBCCB4-48A9-411E-9816-3799FB8E5764}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.指针", "7.指针\7.指针.vcxproj", "{BDACB497-CDCC-4403-8DB8-83D66FE80D23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F1DBCCB4-48A9-411E-9816-3799FB8E5764}.Release|x64.Build.0 = Release|x64
 		{F1DBCCB4-48A9-411E-9816-3799FB8E5764}.Release|x86.ActiveCfg = Release|Win32
 		{F1DBCCB4-48A9-411E-9816-3799FB8E5764}.Release|x86.Build.0 = Release|Win32
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Debug|x64.ActiveCfg = Debug|x64
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Debug|x64.Build.0 = Debug|x64
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Debug|x86.Build.0 = Debug|Win32
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Release|x64.ActiveCfg = Release|x64
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Release|x64.Build.0 = Release|x64
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Release|x86.ActiveCfg = Release|Win32
+		{BDACB497-CDCC-4403-8DB8-83D66FE80D23}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
