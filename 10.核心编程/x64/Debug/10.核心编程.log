@@ -1,0 +1,3 @@
+﻿  10.核心编程.cpp
+E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\10.核心编程\10.核心编程.cpp(15): warning C4172: 返回局部变量或临时变量的地址: a
+  10.核心编程.vcxproj -> E:\00Visual Studio 2022 Project\KhalidZander\CPPStudy\x64\Debug\10.核心编程.exe
