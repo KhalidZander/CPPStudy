@@ -28,6 +28,21 @@ void Print6(const int& a)
 	cout << a << endl;
 }
 
+const double PI = 3.14f;
+
+class Circle
+{
+	// 访问权限
+public:
+	// 属性
+	int m_r;
+	// 行为
+	// 获取周长
+	double CalculateZC()
+	{
+		return 2 * PI * m_r;
+	}
+};
 
 int main()
 {
@@ -72,5 +87,11 @@ int main()
 	int b6 = 20;
 	Print6(b6);
 	cout << b6 << endl;
+
+	cout << "--------------------4.1 封装--------------------" << endl;
+	Circle cl;
+	cl.m_r = 5;
+	cout << "周长：" << cl.CalculateZC() << endl;
+
 }
 
